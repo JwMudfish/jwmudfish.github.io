@@ -1,5 +1,5 @@
 ---
-title: "First post"
+title: "First post!!"
 date: 2019-12-10 11:40:28 -0400
 categories: TIL
 ---
@@ -13,6 +13,7 @@ def print_hi(name):
 print_hi('JW')
 '''
 
+끝
 
 
 
