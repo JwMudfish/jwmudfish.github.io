@@ -6,12 +6,11 @@ categories: TIL
 
 첫번째 블로그 포스팅
 
-'''python
+```python
 def print_hi(name):
-  print('hello', name)
-  
+  print("hello", name)
 print_hi('JW')
-'''
+```
 
 끝
 
